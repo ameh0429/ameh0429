@@ -1,9 +1,4 @@
 # Hi there, I'm Ameh Mathias Ejeh! 👋
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/irmvl1kk3z9ra3iskpbt.JPG" alt="Junior Backend Developer & Solution Architect" width="150" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ameh-mathias-ejeh-7444042b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
