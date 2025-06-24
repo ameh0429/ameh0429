@@ -1,11 +1,7 @@
-<!-- Profile Header with Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Ameh%20Mathias%20Ejeh&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
-</p>
-
+# Hi there, I'm Ameh Mathias Ejeh! 👋
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/irmvl1kk3z9ra3iskpbt.JPG" alt="Junior Backend Developer & Solution Architect" width="300" />
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/irmvl1kk3z9ra3iskpbt.JPG" alt="Junior Backend Developer & Solution Architect" width="150" />
 </p>
 
 <p align="center">
