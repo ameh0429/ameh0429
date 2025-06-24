@@ -78,10 +78,10 @@ I am a Backend Development Learner at **ALX Africa**, committed to growing as a 
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [SmartPack App](https://github.com/your-username/smartpack-backend) | Smart travel packing assistant that customizes user checklist | Node.js, PostgreSQL |
-| [Game Day Notifier](https://github.com/your-username/nba-sns-lambda) | Real-time NBA score alert system using AWS EventBridge & SNS | Python, AWS Lambda |
-| [Number Classifier API](https://github.com/your-username/number-classifier) | Public API to classify numbers based on mathematical properties | FastAPI, Lambda, API Gateway |
-| [DevOps Portfolio Project](https://github.com/your-username/devops-k8s-project) | CI/CD + Kubernetes Orchestration for GitLab repo deployment | Shell, K8s, EKS, FluentD |
+| [SmartPack App](https://github.com/SamueldDev/packsmart-app-backend.git) | Smart travel packing assistant that customizes user checklist | Node.js, PostgreSQL |
+| [Game Day Notifier](https://github.com/ameh0429/Game-Day-Notification-Project.git) | Real-time NBA score alert system using AWS EventBridge & SNS | Python, AWS Lambda |
+| [Feedback Collector](https://github.com/Jerryemmanuel01/TC-Feedback-Collector.git) | Collects user feedback via a form and save it in a local file | Node.js, Express.js|
+| [Movie Watchlist API](https://github.com/ameh0429/Movie-Watchlist-API.git) | RESTful API for managing personal movie watchlists | Node.js, Express.js, PostgreSQL |
 
 ---
 
