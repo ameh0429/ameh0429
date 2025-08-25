@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a Backend Development Learner at **ALX Africa**, committed to growing as a software engineer with deep interest in structured systems, clean code, and scalable architecture.
+I am a Backend Developer committed to growing as a software engineer with deep interest in structured systems, clean code, and scalable architecture.
 
 💡 **Why I started this journey**  
 > I’m passionate about building solid architectural logic that powers industrial growth and innovation.
@@ -63,7 +63,6 @@ I am a Backend Development Learner at **ALX Africa**, committed to growing as a 
 ## 🧠 Currently Learning
 
 - Scalable microservices and system architecture
-- Python and Django 
 - Advanced testing & documentation practices
 - Backend design patterns
 
